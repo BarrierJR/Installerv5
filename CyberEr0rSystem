@@ -26,13 +26,13 @@ blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-figlet TUAN B4DUT  | lolcat
+figlet Cyber Er0r  | lolcat
 
 echo -b "_____________________________________________________________" | lolcat
-echo -b "TYPE      : TOOLS INSTALLER $green " |lolcat
-echo -b "VERSION   : V.3 " | lolcat
-echo -b "TOTALS    : 311 TOOLS " | lolcat
-echo -b "AUTHOR    : TUAN B4DUT $green " |lolcat
+echo -b "TYPE      : Cyber Er0r $green " |lolcat
+echo -b "VERSION   : V.5 " | lolcat
+echo -b "TOTALS    : 283 TOOLS " | lolcat
+echo -b "AUTHOR    : Cyber Er0r System $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN TERMUX ASSOCIATION $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN TERMUX TUTORIAL $green " |lolcat
 echo -b "ASSOCIATE : INDONESIAN DARK TERMUX ASSOCIATE $green " |lolcat
@@ -50,10 +50,10 @@ clear
 echo -b $green"[#]> TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA " |lolcat
 echo -b $green"[#]> Thanks For Using My Tools" |lolcat
 sleep 1
-echo -b $green"[#]> TUAN B4DUT On Your System" |lolcat
+echo -b $green"[#]> Cyber Er0r On Your System" |lolcat
 
 echo -b $green"[#]> See you Again SCRIPTKIDDIES😎 :)..." |lolcat
-figlet TUAN B4DUT | lolcat
+figlet Cyber Er0r | lolcat
 sleep 1
 exit
 }
@@ -638,64 +638,10 @@ echo -e $b "282. Install Code-Breaker${enda}";
 echo -e "============================" | lolcat
 echo -e $b "283. Install Andsploit${enda}";
 echo -e "============================" | lolcat
-echo -e $b "284. Install Multilang-Fork-Bombs${enda}";
-echo -e "============================" | lolcat
-echo -e $b "285. Install Typeracer-Hack${enda}";
-echo -e "============================" | lolcat
-echo -e $b "286. Install CoD4_Hacks${enda}";
-echo -e "============================" | lolcat
-echo -e $b "287. Install TTR-Tools${enda}";
-echo -e "============================" | lolcat
-echo -e $b "288. Install BW_Hacks${enda}";
-echo -e "============================" | lolcat
-echo -e $b "289. Install CoD_Hacks${enda}";
-echo -e "============================" | lolcat
-echo -e $b "290. Install CIA-Hacking-Tools${enda}";
-echo -e "============================" | lolcat
-echo -e $b "291. Install Hack-Tools${enda}";
-echo -e "============================" | lolcat
-echo -e $b "292. Install Hacking-Tools-Reposity${enda}";
-echo -e "============================" | lolcat
-echo -e $b "293. Install Hacking-Tools${enda}";
-echo -e "============================" | lolcat
-echo -e $b "294. Install fbht${enda}";
-echo -e "============================" | lolcat
-echo -e $b "295. Install DebianTools${enda}";
-echo -e "============================" | lolcat
-echo -e $b "296. Install Awesome-Hacking${enda}";
-echo -e "============================" | lolcat
-echo -e $b "297. Install Car-Hacking-Tools${enda}";
-echo -e "============================" | lolcat
-echo -e $b "298. Install Hacking-Tools${enda}";
-echo -e "============================" | lolcat
-echo -e $b "300. Install ZBOT-BotNet${enda}";
-echo -e "============================" | lolcat
-echo -e $b "301. Install OverLoad-DoS${enda}";
-echo -e "============================" | lolcat
-echo -e $b "302. Install PooleBotNet${enda}";
-echo -e "============================" | lolcat
-echo -e $b "303. Install Python-BotNet${enda}";
-echo -e "============================" | lolcat
-echo -e $b "304. Install FB-Phishing${enda}";
-echo -e "============================" | lolcat
-echo -e $b "305. Install King-Phisher${enda}";
-echo -e "============================" | lolcat
-echo -e $b "306. Install Extra-Phishing-Pages${enda}";
-echo -e "============================" | lolcat
-echo -e $b "307. Install Artemis${enda}";
-echo -e "============================" | lolcat
-echo -e $b "308. Install ss7MAPer${enda}";
-echo -e "============================" | lolcat
-echo -e $b "309. Install ss5${enda}";
-echo -e "============================" | lolcat
-echo -e $b "310. Install Gmail-Hack${enda}";
-echo -e "============================" | lolcat
-echo -e $b "311. Install Cc-Cheker${enda}";
-echo -e "============================" | lolcat
 echo -e $b "00. Exit${enda}";
 echo -e "============================" | lolcat
 echo -e "╭─[PILIH NOMORNYA]"
-read -p "   ╰─root@./TUANB4DUT=" pil;
+read -p "   ╰─root@./Cyber Er0r=" pil;
 
 # Nmap
 
@@ -2788,207 +2734,12 @@ echo -e "${y} SUDAH TERINSTALL.."
 
 ;;
 
-#Install Multilang-Fork-Bombs
 
-284) git clone https://github.com/EchoNine/Multilang-fork-bombs
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Typeracer-Hack
-
-285) git clone https://github.com/aashutoshrathi/Typeracer-Hack
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install CoD4_Hacks
-
-286) git clone https://github.com/attilathedud/CoD4_Hacks
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install TTR-Tools
-
-287) git clone https://github.com/AskAlice/TTR-Tools
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install BW_Hacks
-
-288) git clone https://github.com/attilathedud/BW_Hacks
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install CoD_Hacks
-
-289) git clone https://github.com/attilathedud/CoD_Hacks
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install CIA-Hacking-Tools
-
-290) git clone https://github.com/troydo42/CIA-Hacking-Tools
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Hack-Tool
-
-291) git clone https://github.com/chrismeyersfsu/hack-tools
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Hacking-Tools-Repository
-
-292) git clone https://github.com/Gexos/Hacking-Tools-Repository
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Hacking-Tools
-
-293) git clone https://github.com/ExploreCrew/Hacking-Tools
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install fbht
-
-294) git clone https://github.com/chinoogawa/fbht
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install DebianTools
-
-295) git clone https://github.com/thelinuxchoice/debiantools
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Awesome-Hacking
-
-296) git clone https://github.com/jekil/awesome-hacking
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Car-Hacking-Tools
-
-297) git clone https://github.com/ParrotSec/car-hacking-tools
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Hacking-Tools
-
-298) git clone https://github.com/girishramnani/hacking-tools
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Facebook-Messanger-Bot-Webhook
-
-299) git clone https://github.com/troydo42/facebook-messenger-bot-webhook
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install ZBOT-BotNet
-
-300) git clone https://github.com/codingplanets/ZBOT-Botnet
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Overload-DoS
-
-301) git clone https://github.com/codingplanets/Overload-DoS
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install PooleBotNet
-
-302) git clone https://github.com/codingplanets/PooleBotnet
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Pyrhon-BotNet
-
-303) git clone https://github.com/alexpell00/python-botnet
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install FB-Phishing
-
-304) git clone https://github.com/SheehabX/FB-Phishing
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install King-Phisher
-
-305) git clone https://github.com/securestate/king-phisher
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Extra-Phishing-Pages
-
-306) git clone https://github.com/wifiphisher/extra-phishing-pages
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Artemis
-
-307) git clone https://github.com/sweetsoftware/Artemis
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install ss7MAPer
-
-308) git clone https://github.com/ernw/ss7MAPer
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install ss5
-
-309) git clone https://github.com/postageapp/ss5
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install Gemail-Hack
-
-310) git clone https://github.com/Ha3MrX/Gemail-Hack
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-#Install cc-cheker
-
-311) git clone https://github.com/br0keh/cc-checker
-echo -e "${y} SUDAH TERINSTALL.."
-
-;;
-
-00) echo "AUTHOR: TUAN B4DUT" | lolcat
-echo "TUAN B4DUT ON YOUR SYSTEM" | lolcat
+00) echo "AUTHOR: Cyber Er0r" | lolcat
+echo "TUAN B4DUT ON YOUR SySTEM" | lolcat
 echo "INDONESIAN TERMUX ASSOCIATION" | lolcat
 echo "SEMUA TOOLS YANG KALIAN INSTALL ADA DI DIRECTORY TOOLS GUA" | lolcat
-figlet TUAN B4DUT | lolcat
+figlet Cyber Er0r | lolcat
 exit
 ;;
 
@@ -2997,5 +2748,5 @@ esac
 done
 done
 
-#[081221215191]
-#[GILANG]
+#[Thanks for use my script :)]
+#{Barrier}
